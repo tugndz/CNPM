@@ -1,0 +1,612 @@
+[{
+  "_id": {
+    "$oid": "664eb97fee8b2fd75a3a67e6"
+  },
+  "id": 1,
+  "name": "IPHON 12",
+  "image": "http://localhost:4000/images/product_1716435327477.png",
+  "category": "clothing",
+  "new_price": 50,
+  "old_price": 80,
+  "date": {
+    "$date": "2024-05-23T03:35:27.614Z"
+  },
+  "quantity": 5,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664eb9a5ee8b2fd75a3a67f7"
+  },
+  "id": 2,
+  "name": "IPHON 12 PRO",
+  "image": "http://localhost:4000/images/product_1716435365233.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-23T03:36:05.366Z"
+  },
+  "quantity": 6,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664eb9cbee8b2fd75a3a67fa"
+  },
+  "id": 3,
+  "name": "IPHON 12 PROMAX",
+  "image": "http://localhost:4000/images/product_1716435402533.png",
+  "category": "clothing",
+  "new_price": 60,
+  "old_price": 100,
+  "date": {
+    "$date": "2024-05-23T03:36:43.051Z"
+  },
+  "quantity": 7,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664eb9faee8b2fd75a3a6807"
+  },
+  "id": 4,
+  "name": "IPHON 13",
+  "image": "http://localhost:4000/images/product_1716435450504.png",
+  "category": "clothing",
+  "new_price": 100,
+  "old_price": 150,
+  "date": {
+    "$date": "2024-05-23T03:37:30.638Z"
+  },
+  "quantity": 9,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ebdaaee8b2fd75a3a6842"
+  },
+  "id": 5,
+  "name": "IPHON 13 PRO",
+  "image": "http://localhost:4000/images/product_1716436394734.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-23T03:53:14.866Z"
+  },
+  "quantity": 15,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665306ed3b64d76f73ec1b9c"
+  },
+  "id": 6,
+  "name": "IPHON 13 PROMAX",
+  "image": "http://localhost:4000/images/product_1716717293233.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T09:54:53.381Z"
+  },
+  "quantity": 6,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665308683b64d76f73ec1ba1"
+  },
+  "id": 7,
+  "name": "IPHONE 14",
+  "image": "http://localhost:4000/images/product_1716717672751.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:01:12.900Z"
+  },
+  "quantity": 6,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653087d3b64d76f73ec1ba4"
+  },
+  "id": 8,
+  "name": "IPHONE 14 PRO",
+  "image": "http://localhost:4000/images/product_1716717693320.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:01:33.466Z"
+  },
+  "quantity": 3,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653088f3b64d76f73ec1ba7"
+  },
+  "id": 9,
+  "name": "IPHONE 14 PROMAX",
+  "image": "http://localhost:4000/images/product_1716717711686.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:01:51.928Z"
+  },
+  "quantity": 7,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665308a53b64d76f73ec1baa"
+  },
+  "id": 10,
+  "name": "IPHONE 15",
+  "image": "http://localhost:4000/images/product_1716717733549.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:02:13.697Z"
+  },
+  "quantity": 6,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665308b73b64d76f73ec1bad"
+  },
+  "id": 11,
+  "name": "IPHONE 15 PRO",
+  "image": "http://localhost:4000/images/product_1716717750882.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:02:31.031Z"
+  },
+  "quantity": 8,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665308ca3b64d76f73ec1bb0"
+  },
+  "id": 12,
+  "name": "IPHONE 15 PROMAX",
+  "image": "http://localhost:4000/images/product_1716717770362.png",
+  "category": "clothing",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:02:50.520Z"
+  },
+  "quantity": 9,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530aea3b64d76f73ec1c01"
+  },
+  "id": 13,
+  "name": "Xiaomi Redmi Note 13",
+  "image": "http://localhost:4000/images/product_1716718314628.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:11:54.792Z"
+  },
+  "quantity": 4,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530b723b64d76f73ec1c06"
+  },
+  "id": 14,
+  "name": "Xiaomi Redmi Note 13 Pro",
+  "image": "http://localhost:4000/images/product_1716718450252.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:14:10.435Z"
+  },
+  "quantity": 9,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530bc33b64d76f73ec1c09"
+  },
+  "id": 15,
+  "name": "Xiaomi Redmi 13C",
+  "image": "http://localhost:4000/images/product_1716718531490.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:15:31.641Z"
+  },
+  "quantity": 7,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530bf83b64d76f73ec1c0c"
+  },
+  "id": 16,
+  "name": "Xiaomi Redmi 12",
+  "image": "http://localhost:4000/images/product_1716718583881.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:16:24.152Z"
+  },
+  "quantity": 3,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530c373b64d76f73ec1c0f"
+  },
+  "id": 17,
+  "name": "Xiaomi Redmi A3",
+  "image": "http://localhost:4000/images/product_1716718647668.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:17:27.819Z"
+  },
+  "quantity": 6,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530c753b64d76f73ec1c12"
+  },
+  "id": 18,
+  "name": " Xiaomi Redmi Note 13 Pro 5G",
+  "image": "http://localhost:4000/images/product_1716718709099.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:18:29.260Z"
+  },
+  "quantity": 2,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530cb83b64d76f73ec1c15"
+  },
+  "id": 19,
+  "name": "Xiaomi 14",
+  "image": "http://localhost:4000/images/product_1716718776118.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:19:36.283Z"
+  },
+  "quantity": 3,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530d203b64d76f73ec1c18"
+  },
+  "id": 20,
+  "name": "Xiaomi 13T 5G",
+  "image": "http://localhost:4000/images/product_1716718880445.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:21:20.596Z"
+  },
+  "quantity": 5,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530d643b64d76f73ec1c1b"
+  },
+  "id": 21,
+  "name": "Xiaomi Redmi Note 13 Pro+",
+  "image": "http://localhost:4000/images/product_1716718948723.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:22:28.875Z"
+  },
+  "quantity": 2,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530da53b64d76f73ec1c1e"
+  },
+  "id": 22,
+  "name": "Xiaomi Redmi A2+ ",
+  "image": "http://localhost:4000/images/product_1716719013054.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:23:33.205Z"
+  },
+  "quantity": 3,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530de43b64d76f73ec1c21"
+  },
+  "id": 23,
+  "name": "Xiaomi Redmi Note 10",
+  "image": "http://localhost:4000/images/product_1716719076282.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:24:36.433Z"
+  },
+  "quantity": 2,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530e153b64d76f73ec1c24"
+  },
+  "id": 24,
+  "name": "Xiaomi Redmi Note 11",
+  "image": "http://localhost:4000/images/product_1716719125003.png",
+  "category": "electronics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:25:25.155Z"
+  },
+  "quantity": 1,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530eb43b64d76f73ec1c29"
+  },
+  "id": 25,
+  "name": "Samsung Galaxy S23 Ultra",
+  "image": "http://localhost:4000/images/product_1716719284429.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:28:04.583Z"
+  },
+  "quantity": 5,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530f153b64d76f73ec1c2c"
+  },
+  "id": 26,
+  "name": "Samsung Galaxy S23 FE",
+  "image": "http://localhost:4000/images/product_1716719381618.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:29:41.768Z"
+  },
+  "quantity": 5,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530f4e3b64d76f73ec1c2f"
+  },
+  "id": 27,
+  "name": "Samsung Galaxy S24 Ultra 5G",
+  "image": "http://localhost:4000/images/product_1716719438331.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:30:38.495Z"
+  },
+  "quantity": 3,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530f7d3b64d76f73ec1c32"
+  },
+  "id": 28,
+  "name": "Samsung Galaxy S24",
+  "image": "http://localhost:4000/images/product_1716719485835.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:31:25.985Z"
+  },
+  "quantity": 5,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530fac3b64d76f73ec1c35"
+  },
+  "id": 29,
+  "name": "Samsung Galaxy S24+",
+  "image": "http://localhost:4000/images/product_1716719532788.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:32:12.991Z"
+  },
+  "quantity": 8,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66530fe33b64d76f73ec1c38"
+  },
+  "id": 30,
+  "name": "Samsung Galaxy A25",
+  "image": "http://localhost:4000/images/product_1716719587083.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:33:07.238Z"
+  },
+  "quantity": 2,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665310173b64d76f73ec1c3b"
+  },
+  "id": 31,
+  "name": " Samsung Galaxy Z Fold5",
+  "image": "http://localhost:4000/images/product_1716719639722.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:33:59.874Z"
+  },
+  "quantity": 1,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665310433b64d76f73ec1c3e"
+  },
+  "id": 32,
+  "name": "Samsung Galaxy Z Flip5",
+  "image": "http://localhost:4000/images/product_1716719683512.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:34:43.669Z"
+  },
+  "quantity": 6,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665310733b64d76f73ec1c41"
+  },
+  "id": 33,
+  "name": "Samsung Galaxy S23 FE",
+  "image": "http://localhost:4000/images/product_1716719731052.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:35:31.211Z"
+  },
+  "quantity": 5,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665310be3b64d76f73ec1c44"
+  },
+  "id": 34,
+  "name": "Samsung Galaxy A54",
+  "image": "http://localhost:4000/images/product_1716719806610.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:36:46.762Z"
+  },
+  "quantity": 4,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665310f53b64d76f73ec1c47"
+  },
+  "id": 35,
+  "name": "Samsung Galaxy A34",
+  "image": "http://localhost:4000/images/product_1716719861752.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:37:41.907Z"
+  },
+  "quantity": 3,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665311283b64d76f73ec1c4a"
+  },
+  "id": 36,
+  "name": "Samsung Galaxy A34",
+  "image": "http://localhost:4000/images/product_1716719912021.png",
+  "category": "cosmetics",
+  "new_price": 85,
+  "old_price": 120,
+  "date": {
+    "$date": "2024-05-26T10:38:32.186Z"
+  },
+  "quantity": 7,
+  "available": true,
+  "__v": 0
+}]
